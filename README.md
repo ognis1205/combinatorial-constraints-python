@@ -12,7 +12,7 @@
 【実行方法】
 本ディレクトリで下記コマンドを実行します。
 
-  $ python solver.py <list length>
+    $ python solver.py <list length>
 
 実行後、解答が存在する場合はコンソールに解が出力されます。また解が存在しない
 場合は、コンソールに解が存在しない旨のメッセージが出力されます。
@@ -20,5 +20,5 @@
 
 【動作確認実行環境】
 
-  $ python --version
-  Python 2.7.5
+    $ python --version
+    Python 2.7.5
